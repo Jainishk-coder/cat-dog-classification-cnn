@@ -5,7 +5,7 @@ This project uses a Convolutional Neural Network (CNN) to classify images of cat
 ## Features
 - Image preprocessing and augmentation
 - Deep learning model using CNN
-- Achieved ~90% accuracy
+- Achieved ~70% accuracy
 
 ## Tech Stack
 - Python
